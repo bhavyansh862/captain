@@ -18,3 +18,6 @@ Hello, Captain!
 
 ```bash
 docker build -t captain .
+
+PROJECT URL
+https://github.com/bhavyansh862/captain.git
