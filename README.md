@@ -20,4 +20,4 @@ Hello, Captain!
 docker build -t captain .
 
 PROJECT URL
-https://github.com/bhavyansh862/captain.git
+https://github.com/bhavyansh862/captain
